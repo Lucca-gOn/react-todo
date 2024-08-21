@@ -1,0 +1,15 @@
+@font-face {
+  font-family: Open-Sans;
+  src: url(./assets/fonts/OpenSans/static/OpenSans-Regular.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open-Sans','Courier New', Courier, monospace;
+  background-color: blueviolet;
+}

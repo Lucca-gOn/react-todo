@@ -1,0 +1,12 @@
+.container-box {
+  width: 743px;
+  height: 495px;
+  flex-shrink: 0;
+
+  border-radius: 7px;
+  background: #1e123b;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
